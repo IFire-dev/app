@@ -1,0 +1,6 @@
+{
+  "name": "HabitForge",
+  "description": "Gamified habit tracker with an interactive 2x4 home screen widget, XP leveling, custom profile, and OLED themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
